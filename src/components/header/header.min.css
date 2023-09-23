@@ -1,0 +1,2 @@
+header{position:fixed;top:0;left:0;height:7rem;width:100%;background-color:#fff;box-shadow:0px 4px 32px 0px rgba(0,16,61,.16);z-index:1000000}header nav{justify-content:space-around;align-items:center}header nav .nav-logo{padding-top:.8rem}header nav .nav-logo img{width:12rem}header nav .nav-links ul{gap:1rem}header nav .nav-links ul li{font-size:1.2rem;color:#2c2d2e;transition:.1s linear}header nav .nav-links ul li a{transition:.1s linear}header nav .nav-links ul li a:hover{color:#ef7c00}
+/*# sourceMappingURL=header.min.css.map */

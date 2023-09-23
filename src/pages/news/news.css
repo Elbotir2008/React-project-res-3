@@ -1,0 +1,43 @@
+.news-section {
+  width: 100%;
+  height: 35rem;
+  margin-top: 10rem;
+}
+.news-section .news-title {
+  padding-bottom: 5rem;
+  text-align: center;
+}
+.news-section .news-title h1 {
+  font-size: 3.5rem;
+}
+.news-section .news-body {
+  align-items: center;
+  gap: 1rem;
+}
+.news-section .news-body .news-card img {
+  width: 30rem;
+}
+.news-section .news-body .news-card p {
+  font-size: 1.3rem;
+  color: #919399;
+  margin-top: 1rem;
+}
+.news-section .news-body .news-card h6 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  color: #2c2d2e;
+  font-weight: 500;
+}
+.news-section button {
+  background-color: #fff;
+  border: 1px solid #ef7c00;
+  color: #ef7c00;
+  margin-left: 40rem;
+  margin-top: 5rem;
+}
+.news-section button:hover {
+  background-color: #ef7c00;
+  border: 1px solid #ef7c00;
+  color: #fff;
+}
+/*# sourceMappingURL=news.css.map */

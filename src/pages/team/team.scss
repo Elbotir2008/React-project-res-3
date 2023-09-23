@@ -1,0 +1,50 @@
+.team-section {
+  margin-top: 10rem;
+  width: 100%;
+  height: 35rem;
+  .team-title {
+    padding-bottom: 5rem;
+    text-align: center;
+    h1 {
+      font-size: 3.5rem;
+      b {
+        margin-left: 1rem;
+      }
+    }
+  }
+  .team-body {
+    gap: 2rem;
+    .card {
+      text-align: center;
+      height: 30rem;
+      img {
+        width: 16rem;
+        border-radius: 50%;
+      }
+      p {
+        color: #919399;
+        width: 15rem;
+        margin: 0 0 10px auto;
+      }
+      h6 {
+        font-size: 0.9rem;
+        font-weight: 500;
+      }
+      h5 {
+        font-weight: 500;
+        font-size: 1rem;
+      }
+    }
+  }
+  button {
+    margin-left: 40rem;
+    background-color: #fff;
+    color: #ef7c00;
+    border: 1px solid #ef7c00;
+    &:hover {
+      background-color: #ef7c00;
+      border: 1px solid #ef7c00;
+      color: #fff;
+    }
+  }
+}
